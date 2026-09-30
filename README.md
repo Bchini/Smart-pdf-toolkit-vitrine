@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://smart-pdf-toolkit.adel-bchini.workers.dev">
+  <a href="https://smart-pdf-toolkit.bchini.workers.dev">
     <img src="https://img.shields.io/badge/%F0%9F%9A%80%20Open%20the%20app-smart--pdf--toolkit.adel--bchini.workers.dev-2F6FED?style=for-the-badge" alt="Open Smart PDF Toolkit">
   </a>
 </p>

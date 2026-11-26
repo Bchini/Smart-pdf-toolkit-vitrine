@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://smart-pdf-toolkit.bchini.workers.dev">
-    <img src="https://img.shields.io/badge/%F0%9F%9A%80%20Open%20the%20app-smart--pdf--toolkit.adel--bchini.workers.dev-2F6FED?style=for-the-badge" alt="Open Smart PDF Toolkit">
+    <img src="https://img.shields.io/badge/%F0%9F%9A%80%20Open%20the%20app-smart--pdf--toolkit.bchini.workers.dev-2F6FED?style=for-the-badge" alt="Open Smart PDF Toolkit">
   </a>
 </p>
 
@@ -16,8 +16,9 @@
 
 - **Organize** — merge, split, rotate, reorder/delete pages, add page numbers
 - **Optimize** — compress, crop
-- **Convert** — JPG ↔ PDF
-- **Edit** — add a text watermark
+- **Convert** — JPG ↔ PDF, [Word to PDF](https://smart-pdf-toolkit.bchini.workers.dev/tools/word-to-pdf) and [PDF to Word](https://smart-pdf-toolkit.bchini.workers.dev/tools/pdf-to-word)
+- **Edit** — add a text watermark or [sign a PDF](https://smart-pdf-toolkit.bchini.workers.dev/tools/sign)
+- **OCR** — [make a scanned PDF searchable](https://smart-pdf-toolkit.bchini.workers.dev/tools/ocr)
 - **Security** — password-protect or unlock a PDF
 
 Everything runs client-side: your files never leave your browser, there's no
